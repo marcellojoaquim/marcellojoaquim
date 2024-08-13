@@ -8,8 +8,9 @@ I am a Computer Science student, I have 1+ years of professional experience in t
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [marcellojoaquim1@hotmail.com](mailto:marcellojoaquim1@hotmail.com)
+* 👨🏾‍💻  I'm Computer Science Student
 * 👨🏾‍💻  I'm software engineer
-* 🧠  I'm learning Spring Boot, NodeJs
+* 🧠  I'm learning Java, Spring Boot, NodeJs, Relational and Non-relational DataBases
 * 🤝  I'm open to collaborating on Technological solutions based on software, optimization, algorithms, cloud computing and software architecture.
 
 ### Skills
