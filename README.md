@@ -29,6 +29,6 @@ I am a Computer Science student, I have 1+ years of professional experience in t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/marcellojoaquim"><img src="https://github-readme-stats.vercel.app/api?username=marcellojoaquim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="marcellojoaquim's GitHub stats" /></a>
+<a href="http://www.github.com/marcellojoaquim"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcellojoaquim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="marcellojoaquim's GitHub stats" /></a>
 
-<a href="https://github.com/marcellojoaquim" align="left"><img src="https://github-readme-stats.vercel.app/api?username=marcellojoaquim&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/marcellojoaquim" align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcellojoaquim&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
