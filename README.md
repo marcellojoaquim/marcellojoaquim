@@ -29,6 +29,10 @@ I am a Computer Science student, I have 1+ years of professional experience in t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/marcellojoaquim"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcellojoaquim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="marcellojoaquim's GitHub stats" /></a>
+## My GitHub Stats
 
-<a href="https://github.com/marcellojoaquim" align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcellojoaquim&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Marcello Joaquim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcellojoaquim&show_icons=true&count_private=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellojoaquim&layout=compact&langs_count=8&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcellojoaquim&theme=default)
