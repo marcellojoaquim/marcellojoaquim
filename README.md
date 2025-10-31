@@ -1,17 +1,17 @@
-Hi 👋 My name is MARCELLO JOAQUIM
-==========================================
+### 👋 About Me
 
-QA & Backend Eng
------------
+* 🇧🇷 **Location:** Brazil
+* 🎓 **Education:** Computer Science Bachelor's Degree
+* 🛠️ **Experience:** 3+ years in **QA (Test Automation & Manual Testing)**
+* 💻 **Focus:** Transitioning to **Backend Software Development**
+* 🌱 **Currently Learning:** Deep dive into the **Java Ecosystem** (Java, **Spring Boot**), Node.js, and Database technologies (SQL/NoSQL).
+* 📧 **Contact:** [marcellojoaquim1@hotmail.com](mailto:marcellojoaquim1@hotmail.com)
 
-I am a Computer Science bacharelor, I have 1+ years of professional experience in test automation, manual testing working as QA, I am currently studying software development with a focus on the backend. Despite not having a favorite language, I have studied Java and JavaScript.
+---
 
-* 🌍  I'm based in Brasil
-* ✉️  You can contact me at [marcellojoaquim1@hotmail.com](mailto:marcellojoaquim1@hotmail.com)
-* 👨🏾‍💻  I'm Computer Science Bacharelor
-* 👨🏾‍💻  I'm software engineer
-* 🧠  I'm learning Java, Spring Boot, NodeJs, Relational and Non-relational DataBases
-* 🤝  I'm open to collaborating on Technological solutions based on software, optimization, algorithms, cloud computing and software architecture.
+### 🤝 Collaboration
+
+Open to collaborating on projects involving **Backend Systems**, Optimization, Algorithms, Cloud Computing, and Software Architecture.
 
 ### Skills
 
@@ -28,10 +28,9 @@ I am a Computer Science bacharelor, I have 1+ years of professional experience i
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/marcellojoaquim" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/marcello-joaquim-dev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a><a href="https://www.threads.net/@marcelloj.silva" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/marcellojoaquim" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/marcello-joaquim-dev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
 
 ## My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=marcellojoaquim&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="marcellojoaquim's GitHub Stats" /> <img src="https://streak-stats.demolab.com?user=marcellojoaquim&theme=radical&hide_border=false" alt="marcellojoaquim's GitHub Stats" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=marcellojoaquim&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="marcellojoaquim's GitHub Stats"/>
 
