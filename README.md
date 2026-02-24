@@ -32,5 +32,7 @@ Open to collaborating on projects involving **Backend Systems**, Optimization, A
 
 ## My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=marcellojoaquim&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="marcellojoaquim's GitHub Stats"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
