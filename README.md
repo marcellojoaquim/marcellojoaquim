@@ -22,7 +22,7 @@ Open to collaborating on projects involving **Backend Systems**, Optimization, A
 
 ### Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellojoaquim&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="marcellojoaquim's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellojoaquim&layout=compact&theme=radical&count_private=true" alt="Most Used Languages" />
 
 -----------
 
@@ -32,5 +32,5 @@ Open to collaborating on projects involving **Backend Systems**, Optimization, A
 
 ## My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=marcellojoaquim&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="marcellojoaquim's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=marcellojoaquim&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="marcellojoaquim's GitHub Stats"/>
 
