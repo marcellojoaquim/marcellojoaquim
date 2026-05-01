@@ -2,37 +2,52 @@
 
 * 🇧🇷 **Location:** Brazil
 * 🎓 **Education:** Computer Science Bachelor's Degree
-* 🛠️ **Experience:** 3+ years in **QA (Test Automation & Manual Testing)**
-* 💻 **Focus:** Transitioning to **Backend Software Development**
-* 🌱 **Currently Learning:** Deep dive into the **Java Ecosystem** (Java, **Spring Boot**), Node.js, and Database technologies (SQL/NoSQL).
+* 🛠️ **Experience:** 3+ years building reliable systems through QA, Test Automation, and Quality Practices
+* 💻 **Focus:** Currently focused on Backend Development (Java + Spring Ecosystem)
+* 🌱 **Currently Learning:** Expanding knowledge in Distributed Systems, Microservices, and Cloud Architecture
+
+I bring a quality-first mindset into backend development — designing systems that are not only functional, but resilient, observable, and scalable.
+
 * 📧 **Contact:** [marcellojoaquim1@hotmail.com](mailto:marcellojoaquim1@hotmail.com)
 
 ---
 
+### 🚀 What I’m Working On
+
+* Backend applications with Java & Spring Boot
+* Microservices architecture (REST + Messaging with RabbitMQ)
+* Authentication & Authorization with OAuth2 / JWT
+* Data modeling with PostgreSQL & MongoDB
+* Observability (Tracing, Logs, Metrics)
+
 ### 🤝 Collaboration
 
-Open to collaborating on projects involving **Backend Systems**, Optimization, Algorithms, Cloud Computing, and Software Architecture.
+Open to collaborating on:
 
-### Skills
+* Backend systems & APIs
+* Microservices architecture
+* Performance & scalability improvements
+* Distributed systems design
 
+### 🧠 Core Skills
+* Languages: Java, JavaScript
+* Backend: Spring Boot, REST APIs, OpenFeign
+* Databases: PostgreSQL, MongoDB, MySQL
+* Messaging: RabbitMQ
+* DevOps & Tools: Docker, Linux, Git
+* Quality Engineering: Test Automation, API Testing, Reliability
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+### 🧩 Highlight
 
-### Top Languages
+💡 Strong background in QA gives me an edge in backend development:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellojoaquim&layout=compact&theme=radical&count_private=true" alt="Most Used Languages" />
+* Early detection of edge cases
+* Better API design thinking
+* Focus on reliability and observability
+* Testable and maintainable code
 
 -----------
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/marcellojoaquim" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/marcello-joaquim-dev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
-
-## My GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=marcellojoaquim&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
+<p align="center"> <a href="https://www.github.com/marcellojoaquim" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/marcello-joaquim-dev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
